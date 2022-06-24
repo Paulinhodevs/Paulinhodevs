@@ -24,6 +24,6 @@
 <a href="https://www.linkedin.com/in/paulo-roberto-da-silva1985" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> <br>
   
   
-   ! [Animação cobra] (https://github.com/paulinhodevs/paulinhodevs/blob/output/github-contribution-grid-snake.svg)
+  
   
   <div>
