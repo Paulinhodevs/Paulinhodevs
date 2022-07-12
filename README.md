@@ -3,8 +3,7 @@
 <br/>💻 -Hoje estou cursando o bootcamp Fullstack Developer na DiO
 <br/>📚 -Grade do Curso: Html/Css3/Js/Angular/Java/spring Framework...
 
-<div>
- <a href="https://www.linkedin.com/in/paulo-roberto-da-silva1985">
+ <div>
 <img height"180em" src="https://github-readme-stats.vercel.app/api?username=paulinhodevs&theme=dark&show_icons=true&count_public+true"/_>
 <div>
   <div style="display: inline_block"><br>
