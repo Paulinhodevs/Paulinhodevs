@@ -17,7 +17,7 @@
  <img align="center" alt="paulinhodvs-angular" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
  </div>
  </a></div>
- ##
+ 
       
  <div>
   <a href="https://www.instagram.com/ppaulinho1985/" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
